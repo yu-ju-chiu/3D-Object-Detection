@@ -1,0 +1,7 @@
+model/score
+102 bs8 augementation 290 epoch/6.5957
+102 bs16 190 epoch/4.8656
+169 bs4 200 epoch/0.1673
+60 bs4 200 epoch/6.0188
+102 bs6 200 epoch/9.444
+34 bs8 200 epoch/0.5759
